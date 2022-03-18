@@ -1,0 +1,107 @@
+/*NAVBAR*/
+
+.navbar-brand {
+    font-family:'Merriweather', serif;
+}
+
+.nav-name {
+    font-size:30px;
+}
+
+.social {
+    width:35px;
+}
+
+.izzy {
+    background:linear-gradient(to bottom, #fff1e6 60%, #F6E70C 40%);
+    color:#000000;
+}
+
+/*TAGLINE ROW*/
+
+.hed-serif {
+    font-family:'Merriweather', serif;
+    line-height: 1.5;
+}
+
+.tag-hed {
+    font-size:55px;
+}
+
+.name {
+    background:linear-gradient(to bottom, #fff1e6 60%, #F6E70C 40%);
+}
+
+.tag-box {
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+.btn-dark {
+    background-color:#e6004c !important;
+    border:#e6004c !important;
+}
+
+.btn-dark:hover {
+    background-color:#cc0043 !important;
+    border:#cc0043 !important;
+}
+
+/*BODY*/
+
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+.bg-nude {
+    background-color:#fff1e6;
+}
+
+.bg-dark-pink {
+    background-color:#e6004c;
+}
+
+.bg-light-pink {
+    background-color:#f3c5b9;
+}
+
+h2 {
+    font-size:22px;
+}
+
+.body-font {
+    font-size:20px;
+    line-height:1.3;
+}
+
+/*ABOUTE ME*/
+
+.btn-outline-dark {
+    color:#e6004c !important;
+    border-color:#e6004c !important;
+}
+
+.btn-outline-dark:hover {
+    color:#ffffff !important;
+    background-color:#e6004c !important;
+    border-color:#e6004c !important;
+}
+
+.big-serif {
+    font-size:35px;
+}
+
+/*FEATURED WORK*/
+.work-box {
+    background-color:#ffffff;
+}
+
+.feature-text {
+    color:#000000;
+}
+
+.feature-text:hover {
+    background:linear-gradient(to bottom, #ffffff 60%, #F6E70C 40%);
+    color:#000000;
+    text-decoration:none;
+}
